@@ -1,3 +1,12 @@
+@font-face {
+  font-family: Nimbus-Sans;
+  src: url("Nimbus-Sans-D-OT-Light_32752.ttf");
+}
+
+body {
+  font-family: Nimbus-Sans;
+}
+
 .container {
   padding: 4em;
   padding-right: 40em;
